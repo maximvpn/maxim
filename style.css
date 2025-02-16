@@ -28,7 +28,7 @@ body {
 }
 
 .content {
-  background-color:rgba(255,255,255,.8);
+  background-color: rgb(255 255 255 / 61%);
   border-radius:.25em;
   box-shadow:0 0 .25em rgba(0,0,0,.25);
   box-sizing:border-box;
